@@ -1,0 +1,2 @@
+CONNECT system/bdadmin
+DROP USER P1 CASCADE;
